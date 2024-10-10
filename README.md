@@ -22,7 +22,7 @@ I'm a **Full-Stack Developer** passionate about building responsive and user-fri
 
 ## 🌟 Featured Projects
 ### [Project Name](link-to-your-project)
-![Project Screenshot](https://via.placeholder.com/400x200?text=Project+Image) <!-- Replace with a project image -->
+![Project Screenshot](./Screenshot 2024-10-07 154841.png) <!-- Replace with a project image -->
 - **Description**: A brief overview of what the project is about.
 - **Technologies**: JavaScript, React, Node.js
 - **Key Features**:
