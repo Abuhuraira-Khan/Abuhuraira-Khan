@@ -1,44 +1,56 @@
-# 👋 Hi, I’m Abu Huraira Khan
+# 👋 Hi there! I'm Abu Huraira Khan
 
-## 🎓 About Me
-I am a passionate **full-stack developer** with experience in web technologies like **JavaScript**, **React**, **Node.js**, and **MongoDB**. I love building projects that solve real-world problems and enhance user experiences.
+![Header Image](https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile) <!-- Replace with a personal image or header -->
 
-## 🔧 Technologies & Tools
-- **Languages**: JavaScript, HTML, CSS
+## 🚀 About Me
+I'm a **Full-Stack Developer** passionate about building responsive and user-friendly web applications. I specialize in:
 - **Frontend**: React, Next.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, Firebase Firestore
-- **Others**: Git, GitHub, Docker
 
-## 🚀 Projects
-### [Your Project Name](link-to-your-project)
-- **Description**: Brief description of what the project does and the technologies used.
-- **Key Features**: 
+🌱 Currently learning **TypeScript** and exploring **UI/UX Design** principles.
+
+---
+
+## 🔧 Technologies & Tools
+| ![JavaScript](https://via.placeholder.com/30?text=JS) | ![React](https://via.placeholder.com/30?text=React) | ![Node.js](https://via.placeholder.com/30?text=Node.js) | ![MongoDB](https://via.placeholder.com/30?text=MongoDB) |
+|:---:|:---:|:---:|:---:|
+| **JavaScript** | **React** | **Node.js** | **MongoDB** |
+| HTML | CSS | Express.js | Git |
+
+---
+
+## 🌟 Featured Projects
+### [Project Name](link-to-your-project)
+![Project Screenshot](https://via.placeholder.com/400x200?text=Project+Image) <!-- Replace with a project image -->
+- **Description**: A brief overview of what the project is about.
+- **Technologies**: JavaScript, React, Node.js
+- **Key Features**:
   - Feature 1
   - Feature 2
   - Feature 3
 
+---
+
 ### [Another Project Name](link-to-another-project)
-- **Description**: Brief description of what this project does.
+![Another Project Screenshot](https://via.placeholder.com/400x200?text=Project+Image) <!-- Replace with a project image -->
+- **Description**: A brief overview of this project.
+- **Technologies**: Next.js, MongoDB
 - **Key Features**:
   - Feature 1
   - Feature 2
 
+---
+
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abuhuraira-Khan&show_icons=true&theme=radical)
 
-## 🌱 I’m currently learning
-- Advanced concepts in **Node.js** and **Next.js**
-- **TypeScript** for better type safety in projects
+---
 
-## 💬 Get in Touch
-- [Twitter](your-twitter-url)
-- [LinkedIn](your-linkedin-url)
-- [Personal Website](your-website-url)
-
-## 📄 Resume
-[Download my resume](link-to-your-resume)
+## 📫 Get in Touch
+- [Twitter](your-twitter-url) | [LinkedIn](your-linkedin-url) | [Personal Website](your-website-url)
+- 📄 [Download my Resume](link-to-your-resume)
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out or check out my projects. I’m always open to collaborating on exciting new ideas! 🚀
+Thank you for visiting my profile! Feel free to reach out or check out my projects. I'm always open to collaboration and new ideas! 🚀
