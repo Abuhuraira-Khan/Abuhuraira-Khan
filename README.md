@@ -36,7 +36,7 @@ I'm a **Full-Stack Developer** passionate about building responsive and user-fri
 ---
 
 ### [Chat Application](https://talkora.vercel.app)
-![Another Project Screenshot](./Screenshot20%2024-09-2820%193541.png) <!-- Replace with a project image -->
+![Another Project Screenshot](./Screenshot%202024-09-28%20193541.png) <!-- Replace with a project image -->
 - **Technologies**: JavaScript, React, TypeScript, Tailwind CSS, Node.js, Express.js, Socket.IO, Cloudinary, MongoDB
 - **Key Features**:
 -Real-time Group Chat: Instantly communicate with multiple users in real-time.
