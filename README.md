@@ -8,29 +8,28 @@ I am a passionate **full-stack developer** with experience in web technologies l
 - **Frontend**: React, Next.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, Firebase Firestore
-- **Others**: Git, GitHub, Docker, RESTful APIs
+- **Others**: Git, GitHub, Docker
 
 ## 🚀 Projects
-### [Project Name](link-to-your-project)
+### [Your Project Name](link-to-your-project)
 - **Description**: Brief description of what the project does and the technologies used.
 - **Key Features**: 
   - Feature 1
   - Feature 2
   - Feature 3
 
-### [Another Project](link-to-another-project)
+### [Another Project Name](link-to-another-project)
 - **Description**: Brief description of what this project does.
 - **Key Features**:
   - Feature 1
   - Feature 2
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbuHurairaKhan&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abuhuraira-Khan&show_icons=true&theme=radical)
 
 ## 🌱 I’m currently learning
 - Advanced concepts in **Node.js** and **Next.js**
 - **TypeScript** for better type safety in projects
-- **UI/UX Design** principles to enhance my design skills
 
 ## 💬 Get in Touch
 - [Twitter](your-twitter-url)
