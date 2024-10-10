@@ -21,9 +21,8 @@ I'm a **Full-Stack Developer** passionate about building responsive and user-fri
 ---
 
 ## 🌟 Featured Projects
-### [Project Name](link-to-your-project)
+### [Social Media Platform](https://crest-net.vercel.app)
 ![Project Screenshot](./Screenshot%202024-10-07%20154841.png) <!-- Replace with a project image -->
-![- **Description**: A brief overview of what the project is about.]
 - **Technologies**: JavaScript, React, Node.js, Tailwind CSS, Express, MongoDB, Socket.io, Cloudinary
 - **Key Features**:
 - Share Posts: Users can share videos, images, and text posts with their network.
@@ -36,13 +35,21 @@ I'm a **Full-Stack Developer** passionate about building responsive and user-fri
 
 ---
 
-### [Another Project Name](link-to-another-project)
-![Another Project Screenshot](https://via.placeholder.com/400x200?text=Project+Image) <!-- Replace with a project image -->
-- **Description**: A brief overview of this project.
-- **Technologies**: Next.js, MongoDB
+### [Chat Application](https://talkora.vercel.app)
+![Another Project Screenshot](./Screenshot20%2024-09-2820%193541.png) <!-- Replace with a project image -->
+- **Technologies**: JavaScript, React, TypeScript, Tailwind CSS, Node.js, Express.js, Socket.IO, Cloudinary, MongoDB
 - **Key Features**:
-  - Feature 1
-  - Feature 2
+-Real-time Group Chat: Instantly communicate with multiple users in real-time.
+-Email Verification: Secure user registration with email confirmation.
+-User & Admin Management: Edit profiles, manage groups, and assign admin roles.
+-Search Functionality: Easily find and connect with other users.
+-Story Sharing: Share and view stories within the app.
+-Mobile Optimization: Responsive design, optimized for all devices.
+-Enhanced Security:
+  -Rate Limiting to prevent abuse
+  -CORS for controlled access
+  -Input Validation for safe interactions
+  -Helmet.js to secure HTTP headers
 
 ---
 
@@ -52,7 +59,7 @@ I'm a **Full-Stack Developer** passionate about building responsive and user-fri
 ---
 
 ## 📫 Get in Touch
-- [Twitter](your-twitter-url) | [LinkedIn](your-linkedin-url) | [Personal Website](your-website-url)
+- [Twitter](https://x.com/Abuhuraira_K) | [LinkedIn](www.linkedin.com/in/abu-huraira-khan-197415289) | [Personal Website](https://abuhuraira-khan.web.app)
 - 📄 [Download my Resume](link-to-your-resume)
 
 ---
