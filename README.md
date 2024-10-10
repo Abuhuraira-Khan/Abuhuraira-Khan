@@ -1,10 +1,10 @@
 # 👋 Hi there! I'm Abu Huraira Khan
 
-![Header Image](https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile) <!-- Replace with a personal image or header -->
+![Header Image](https://media.licdn.com/dms/image/v2/D5616AQGtk10WU90Sfw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719352408429?e=1733961600&v=beta&t=l2TMttbjWIpNzvnEjnas632V-V-YqPj91VhVKmjitvo) <!-- Replace with a personal image or header -->
 
 ## 🚀 About Me
 I'm a **Full-Stack Developer** passionate about building responsive and user-friendly web applications. I specialize in:
-- **Frontend**: React, Next.js, Tailwind CSS
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Sass
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, Firebase Firestore
 
