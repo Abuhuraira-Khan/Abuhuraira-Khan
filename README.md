@@ -23,12 +23,16 @@ I'm a **Full-Stack Developer** passionate about building responsive and user-fri
 ## 🌟 Featured Projects
 ### [Project Name](link-to-your-project)
 ![Project Screenshot](./Screenshot%202024-10-07%20154841.png) <!-- Replace with a project image -->
-- **Description**: A brief overview of what the project is about.
-- **Technologies**: JavaScript, React, Node.js
+![- **Description**: A brief overview of what the project is about.]
+- **Technologies**: JavaScript, React, Node.js, Tailwind CSS, Express, MongoDB, Socket.io, Cloudinary
 - **Key Features**:
-  - Feature 1
-  - Feature 2
-  - Feature 3
+- Share Posts: Users can share videos, images, and text posts with their network.
+- Engagement: Added the ability to like, comment, and share posts (including sharing post URLs).
+- Friendship System: You can send friend requests, view received requests, and even see friend suggestions.
+- Real-Time Notifications: Integrated real-time notifications using Socket.io, so users get instant updates when someone interacts with their posts or sends a request.
+- User Profiles: Each user has a dedicated profile displaying all their shared posts.
+- Dark/Light Mode: Switch between dark and light themes for a better user experience (because who doesn’t love dark mode, right? 😎).
+- Advanced Search: Created a search feature that shows both people and posts in a single search result.
 
 ---
 
