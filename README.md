@@ -1,67 +1,45 @@
-# 👋 Hi there! I'm Abuhuraira Khan
+# 👋 I'm Abuhuraira Khan
+### Founder & Chief Architect at Manekor
 
-![Header Image](https://media.licdn.com/dms/image/v2/D5616AQGtk10WU90Sfw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719352408429?e=1733961600&v=beta&t=l2TMttbjWIpNzvnEjnas632V-V-YqPj91VhVKmjitvo) <!-- Replace with a personal image or header -->
+![Manekor Banner](https://manekor.com/images/og-banner.jpg) 
 
-## 🚀 About Me
-I'm a **Full-Stack Developer** passionate about building responsive and user-friendly web applications. I specialize in:
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Sass
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB, Firebase Firestore
+## 🏗️ What I'm Building
+I lead the technical direction at **Manekor**, a digital studio focused on high-performance ecosystems. My work centers on bridging the gap between distributed edge computing and generative AI.
 
-🌱 Currently learning **TypeScript** and exploring **UI/UX Design** principles.
-
----
-
-## 🔧 Technologies & Tools
-| ![JavaScript](https://via.placeholder.com/30?text=JS) | ![React](https://via.placeholder.com/30?text=React) | ![Node.js](https://via.placeholder.com/30?text=Node.js) | ![MongoDB](https://via.placeholder.com/30?text=MongoDB) |
-|:---:|:---:|:---:|:---:|
-| **JavaScript** | **React** | **Node.js** | **MongoDB** |
-| HTML | CSS | Express.js | Git |
+- **Pixfry**: A cross-platform AI generative suite built for speed and global scale.
+- **Manekor Tools**: A collection of lightweight, edge-native utilities for global productivity.
+- **Interactive Media**: Developing motion-sensor driven mobile experiences and games.
 
 ---
 
-## 🌟 Featured Projects
-### [Social Media Platform](https://crest-net.vercel.app)
-![Project Screenshot](./Screenshot%202024-10-07%20154841.png) <!-- Replace with a project image -->
-- **Technologies**: JavaScript, React, Node.js, Tailwind CSS, Express, MongoDB, Socket.io, Cloudinary
-- **Key Features**:
-- Share Posts: Users can share videos, images, and text posts with their network.
-- Engagement: Added the ability to like, comment, and share posts (including sharing post URLs).
-- Friendship System: You can send friend requests, view received requests, and even see friend suggestions.
-- Real-Time Notifications: Integrated real-time notifications using Socket.io, so users get instant updates when someone interacts with their posts or sends a request.
-- User Profiles: Each user has a dedicated profile displaying all their shared posts.
-- Dark/Light Mode: Switch between dark and light themes for a better user experience (because who doesn’t love dark mode, right? 😎).
-- Advanced Search: Created a search feature that shows both people and posts in a single search result.
+## 🛠️ Core Stack & Infrastructure
+I specialize in building "Edge-First" architectures that prioritize low latency and global availability.
+
+- **Infrastructure**: Distributed Edge Computing, Serverless Architecture, Global Storage (R2).
+- **Frontend**: Next.js (App Router), React, TypeScript, Tailwind CSS.
+- **Backend**: Node.js, Edge Functions, High-performance API Design.
+- **Mobile**: Native-integrated cross-platform development for iOS & Android.
 
 ---
 
-### [Chat Application](https://talkora.vercel.app)
-![Another Project Screenshot](./Screenshot%202024-09-28%20193541.png) <!-- Replace with a project image -->
-- **Technologies**: JavaScript, React, TypeScript, Tailwind CSS, Node.js, Express.js, Socket.IO, Cloudinary, MongoDB
-- **Key Features**:
--Real-time Group Chat: Instantly communicate with multiple users in real-time.
--Email Verification: Secure user registration with email confirmation.
--User & Admin Management: Edit profiles, manage groups, and assign admin roles.
--Search Functionality: Easily find and connect with other users.
--Story Sharing: Share and view stories within the app.
--Mobile Optimization: Responsive design, optimized for all devices.
--Enhanced Security:
-  -Rate Limiting to prevent abuse
-  -CORS for controlled access
-  -Input Validation for safe interactions
-  -Helmet.js to secure HTTP headers
+## 🔬 Development Philosophy
+My repositories are primarily focused on **private commercial development** and stealth-phase projects. I prioritize:
+- **Scalability**: Building systems that handle global traffic from day one.
+- **Privacy**: Implementing secure-by-design data handling.
+- **Performance**: Shifting compute-heavy tasks to the network edge to ensure instant user feedback.
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abuhuraira-Khan&show_icons=true&theme=radical)
+## 📈 Technical Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abuhuraira-Khan&show_icons=true&theme=dark&hide_border=true&count_private=true)
+*Note: Most of my recent work is in private organizational repositories for Manekor.*
 
 ---
 
-## 📫 Get in Touch
-- [Twitter](https://x.com/Abuhuraira_K) | [LinkedIn](www.linkedin.com/in/abu-huraira-khan-197415289) | [Personal Website](https://abuhuraira-khan.web.app)
-- 📄 [Download my Resume](link-to-your-resume)
+## 📫 Connect with the Studio
+- **Official Site**: [manekor.com](https://manekor.com)
+- **Product Hub**: [manekor.com/apps-and-games](https://manekor.com/apps-and-games)
+- **Contact**: biz@manekor.com
 
 ---
-
-Thank you for visiting my profile! Feel free to reach out or check out my projects. I'm always open to collaboration and new ideas! 🚀
+*"Building the future of universal digital ecosystems."* 🚀
