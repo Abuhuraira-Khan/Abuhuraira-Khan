@@ -30,10 +30,6 @@ My repositories are primarily focused on **private commercial development** and 
 
 ---
 
-## 📈 Technical Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abuhuraira-Khan&show_icons=true&theme=dark&hide_border=true&count_private=true)
-*Note: Most of my recent work is in private organizational repositories for Manekor.*
-
 ---
 
 ## 📫 Connect with the Studio
