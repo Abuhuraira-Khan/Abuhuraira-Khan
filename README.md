@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Abu Huraira Khan
+# 👋 Hi there! I'm Abuhuraira Khan
 
 ![Header Image](https://media.licdn.com/dms/image/v2/D5616AQGtk10WU90Sfw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719352408429?e=1733961600&v=beta&t=l2TMttbjWIpNzvnEjnas632V-V-YqPj91VhVKmjitvo) <!-- Replace with a personal image or header -->
 
